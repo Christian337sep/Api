@@ -1,0 +1,51 @@
+{
+    "ciudad": "Madrid",
+    "fecha": "2025-03-03",
+    "noticias": [
+      {
+        "titulo": "El Real Madrid busca fichajes clave para la próxima temporada",
+        "descripcion": "El club merengue analiza opciones en el mercado para reforzar su plantilla con vistas a la temporada 2025-2026.",
+        "categoria": "Deportes",
+        "fecha_publicacion": "2025-03-03",
+        "enlace": "https://www.marca.com/futbol/real-madrid/fichajes-2025.html",
+        "etiquetas": ["Fichajes", "Real Madrid", "Temporada 2025"],
+        "comentarios": [
+          {
+            "usuario": "JuanMadridista",
+            "comentario": "Espero que traigan un delantero de clase mundial.",
+            "fecha": "2025-03-03"
+          },
+          {
+            "usuario": "AnaFutbol",
+            "comentario": "Se habla mucho de Mbappé otra vez, ¿será cierto esta vez?",
+            "fecha": "2025-03-03"
+          }
+        ]
+      },
+      {
+        "titulo": "El Real Madrid gana el Clásico y amplía su ventaja en LaLiga",
+        "descripcion": "El equipo blanco se impuso al Barcelona con un marcador de 3-1 y se consolida como líder del campeonato.",
+        "categoria": "Deportes",
+        "fecha_publicacion": "2025-03-02",
+        "enlace": "https://www.marca.com/futbol/laliga/clasico-2025.html",
+        "etiquetas": ["Real Madrid", "Barcelona", "Clásico", "LaLiga"],
+        "comentarios": [
+          {
+            "usuario": "CarlosBlanco",
+            "comentario": "¡Partidazo de Vinicius y Bellingham!",
+            "fecha": "2025-03-02"
+          }
+        ]
+      },
+      {
+        "titulo": "Ancelotti habla sobre el futuro del equipo y su continuidad",
+        "descripcion": "El técnico italiano dejó en el aire su continuidad en el banquillo del Real Madrid tras el final de la temporada.",
+        "categoria": "Deportes",
+        "fecha_publicacion": "2025-03-01",
+        "enlace": "https://www.marca.com/futbol/real-madrid/ancelotti-continuidad.html",
+        "etiquetas": ["Real Madrid", "Ancelotti", "Entrenador"],
+        "comentarios": []
+      }
+    ]
+  }
+  
